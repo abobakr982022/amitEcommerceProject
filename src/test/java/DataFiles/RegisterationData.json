@@ -1,0 +1,16 @@
+[
+  {
+    "userName" : "AmitTesting65",
+    "Email" : "AmitTesting65@amit.com",
+    "password" : "P@ssw0rd",
+    "confirmPassword" : "P@ssw0rd",
+    "firstName" : "Amit",
+    "lastName" : "testing",
+    "phoneNumber" : "01111111111",
+    "country" : "Egypt",
+    "city" : "Cairo",
+    "Address" : "Cairo",
+    "state" : "Cairo",
+    "postalCode" : "123456"
+  }
+]
